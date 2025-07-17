@@ -1,9 +1,12 @@
 - leetcode-practice/
 - README.md
 - Easy_Collection/
-    - 0001-Remove Duplicates from Sorted Array - RemoveDuplicates.java
-    - 0002-Best Time to Buy and Sell Stock II - MaxProfit.java
-    - 0003-Rotate Array - Rotate.java
+    -Array
+        - 0001-Remove Duplicates from Sorted Array  - RemoveDuplicates.java
+        - 0002-Best Time to Buy and Sell Stock II   - MaxProfit.java
+        - 0003-Rotate Array                         - Rotate.java
+        - 0004-Contains Duplicate                   - ContainsDuplicate.java
+        - 0005-Single Number                        - SingleNumber.java
 - medium/
 - hard/
 - utils/
