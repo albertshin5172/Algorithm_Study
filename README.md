@@ -1,5 +1,4 @@
 - leetcode-practice
-- README.md
 - Easy_Collection
     - Array
         - 0001-Remove Duplicates from Sorted Array  - RemoveDuplicates.java
