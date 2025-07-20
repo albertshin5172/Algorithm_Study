@@ -18,6 +18,7 @@
   - 0344-reverse-string
   - 0350-intersection-of-two-arrays-ii
   - 0387. First Unique Character in a String
+        
 - medium
     - 0008-string-to-integer-atoi    
     - 0122-best-time-to-buy-and-sell-stock-ii
