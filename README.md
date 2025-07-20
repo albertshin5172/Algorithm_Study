@@ -12,6 +12,7 @@
   - 0066-plus-one
   - 0136-single-number
   - 0217-contains-duplicate
+  - 0242-valid-anagram
   - 0283-move-zeroes
   - 0344-reverse-string
   - 0350-intersection-of-two-arrays-ii
