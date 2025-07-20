@@ -6,6 +6,16 @@
         - 0003-Rotate Array                         - Rotate.java
         - 0004-Contains Duplicate                   - ContainsDuplicate.java
         - 0005-Single Number                        - SingleNumber.java
+- easy
+  - 0001-two-sum
+  - 0026-remove-duplicates-from-sorted-array
+  - 0066-plus-one
+  - 0136-single-number
+  - 0217-contains-duplicate
+  - 0283-move-zeroes
+  - 0350-intersection-of-two-arrays-ii
 - medium
+    - 0122-best-time-to-buy-and-sell-stock-ii
+    - 0189-rotate-array
 - hard
 - .gitignore
