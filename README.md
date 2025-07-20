@@ -10,6 +10,7 @@
   - 0001-two-sum
   - 0026-remove-duplicates-from-sorted-array
   - 0066-plus-one
+  - 0125-valid-palindrome
   - 0136-single-number
   - 0217-contains-duplicate
   - 0242-valid-anagram
