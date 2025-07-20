@@ -17,6 +17,7 @@
   - 0283-move-zeroes
   - 0344-reverse-string
   - 0350-intersection-of-two-arrays-ii
+  - 0387. First Unique Character in a String
 - medium
     - 0122-best-time-to-buy-and-sell-stock-ii
     - 0189-rotate-array
