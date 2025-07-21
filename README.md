@@ -8,6 +8,7 @@
         - 0005-Single Number                        - SingleNumber.java
 - easy
   - 0001-two-sum
+  - 0014-longest-common-prefix
   - 0026-remove-duplicates-from-sorted-array
   - 0066-plus-one
   - 0125-valid-palindrome
