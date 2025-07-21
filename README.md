@@ -10,6 +10,7 @@
   - 0001-two-sum
   - 0014-longest-common-prefix
   - 0026-remove-duplicates-from-sorted-array
+  - 0028-find-the-index-of-the-first-occurrence-in-a-string
   - 0066-plus-one
   - 0125-valid-palindrome
   - 0136-single-number
