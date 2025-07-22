@@ -22,6 +22,7 @@
   - 0387. First Unique Character in a String
         
 - medium
+    - 0007-reverse-integer   
     - 0008-string-to-integer-atoi    
     - 0122-best-time-to-buy-and-sell-stock-ii
     - 0189-rotate-array
