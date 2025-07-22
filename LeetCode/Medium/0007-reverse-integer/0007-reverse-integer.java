@@ -22,11 +22,13 @@ class Solution {
             revNum =  revNum*10 + x%10;
              x /= 10;
         }
-
+/*
         //Overflow check
         if(revNum > Integer.MAX_VALUE || revNum < Integer.MIN_VALUE) {
             return 0;  //Integer.max_value handle long value
         }
         return (int) revNum;
+*/
+        return (revNum > Integer.MAX_VALUE || revNum < Integer.MIN_VALUE ? 0 : (int)revNum);
     }
 }
