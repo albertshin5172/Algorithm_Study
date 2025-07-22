@@ -19,7 +19,7 @@ class Solution {
 
         // Revised to be simpler.
         while(x != 0){
-            revNum =  revNum*10 + x%10;
+            revNum = (revNum*10) + x%10;
              x /= 10;
         }
 /*
