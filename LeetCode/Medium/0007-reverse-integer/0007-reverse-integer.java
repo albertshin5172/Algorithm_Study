@@ -29,6 +29,7 @@ class Solution {
         }
         return (int) revNum;
 */
+        //Enhance runtime performance.
         return (revNum > Integer.MAX_VALUE || revNum < Integer.MIN_VALUE ? 0 : (int)revNum);
     }
 }
