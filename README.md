@@ -34,14 +34,16 @@ leetcode-practice/
 
 | No.  |              Title                                   | Java File                                                | Link                                                                                   |
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 0001 | Two Sum                                              | `two-sum/`                                               | [🔗](https://leetcode.com/problems/two-sum/)                                           |
-| 0014 | Longest Common Prefix                                | `longest-common-prefix/`                                 | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
-| 0026 | Remove Duplicates from Sorted Array                  | `RemoveDuplicates.java`                                  | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               |
-| 0028 | Find the Index of the First Occurrence  in a String  | `Find the Index of theFirst Occurrence in a String.java` | [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
+| 0001 | Two Sum                                              | `two-sum.java`                                           | [🔗](https://leetcode.com/problems/two-sum/)                                           |
+| 0009 | palindrome-number                                    | `palindrome-number.java`                                 | [🔗](https://leetcode.com/problems/palindrome-number/))                                |
+| 0013 | Integer to Roman                                     | `longest-common-prefix.java`                             | [🔗]((https://leetcode.com/problems/integer-to-roman/))                                |
+| 0014 | Longest Common Prefix                                | `roman-to-integer.java`                                  | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
+| 0026 | Remove Duplicates from Sorted Array                  | `remove-duplicates-from-sorted-array.java`               | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               |
+| 0028 | Find the Index of the First Occurrence  in a String  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | 0066 | Plus One                                             | `plus-one/`                                              | [🔗](https://leetcode.com/problems/plus-one/)                                          |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
-| 0217 | Contains Duplicate                                   | `ContainsDuplicate.java`                                 | [🔗](https://leetcode.com/problems/contains-duplicate/)                                |
+| 0217 | Contains Duplicate                                   | `contains-duplicat.java`                                 | [🔗](https://leetcode.com/problems/contains-duplicate/)                                |
 | 0242 | valid-anagram                                        | `valid-anagram.java`                                     | [🔗](https://leetcode.com/problems/valid-anagram/)                                     |
 | 0283 | move-zeroes                                          | `move-zeroes.java`                                       | [🔗](https://leetcode.com/problems/move-zeroes/)                                       |
 | 0344 | Reverse String                                       | `reverse-string/`                                        | [🔗](https://leetcode.com/problems/reverse-string/)                                    |
@@ -57,8 +59,9 @@ leetcode-practice/
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
 | 0007 | Reverse Integer                                      | `reverse-integer/`                                       | [🔗](https://leetcode.com/problems/reverse-integer/)                                  |
 | 0008 | String to Integer (atoi)                             | `string-to-integer-atoi/`                                | [🔗](https://leetcode.com/problems/string-to-integer-atoi/)                           |
-| 0122 | Best Time to Buy and Sell Stock II                   | `MaxProfit.java`                                         | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)               |
-| 0189 | Rotate Array                                         | `Rotate.java`                                            | [🔗](https://leetcode.com/problems/rotate-array/)                                     |
+| 0122 | Best Time to Buy and Sell Stock II                   | `best-time-to-buy-and-sell-stock-ii.java`                | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)               |
+| 0189 | Rotate Array                                         | `rotate-array.java`                                      | [🔗](https://leetcode.com/problems/rotate-array/)                                     |
+| 0237 | Delete Node in a Linked List                         | `delete-node-in-a-linked-list.java`                      | [🔗](https://leetcode.com/problems/delete-node-in-a-linked-list/)                     |
 | ...  | ...                                                  | ...                                                      | ...                                                                                    |
 
 ---
