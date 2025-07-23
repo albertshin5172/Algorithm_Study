@@ -35,8 +35,8 @@ leetcode-practice/
 | No.  |              Title                                   | Java File                                                | Link                                                                                   |
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
 | 0001 | Two Sum                                              | `two-sum.java`                                           | [🔗](https://leetcode.com/problems/two-sum/)                                           |
-| 0009 | palindrome-number                                    | `palindrome-number.java`                                 | [🔗](https://leetcode.com/problems/palindrome-number/))                                |
-| 0013 | Integer to Roman                                     | `longest-common-prefix.java`                             | [🔗]((https://leetcode.com/problems/integer-to-roman/))                                |
+| 0009 | palindrome-number                                    | `palindrome-number.java`                                 | [🔗](https://leetcode.com/problems/palindrome-number/)                                 |
+| 0013 | Integer to Roman                                     | `longest-common-prefix.java`                             | [🔗](https://leetcode.com/problems/integer-to-roman/)                                  |
 | 0014 | Longest Common Prefix                                | `roman-to-integer.java`                                  | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
 | 0026 | Remove Duplicates from Sorted Array                  | `remove-duplicates-from-sorted-array.java`               | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               |
 | 0028 | Find the Index of the First Occurrence  in a String  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
