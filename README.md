@@ -36,19 +36,20 @@ leetcode-practice/
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
 | 0001 | Two Sum                                              | `two-sum.java`                                           | [🔗](https://leetcode.com/problems/two-sum/)                                           |
 | 0009 | palindrome-number                                    | `palindrome-number.java`                                 | [🔗](https://leetcode.com/problems/palindrome-number/)                                 |
-| 0013 | Integer to Roman                                     | `longest-common-prefix.java`                             | [🔗](https://leetcode.com/problems/integer-to-roman/)                                  |
-| 0014 | Longest Common Prefix                                | `roman-to-integer.java`                                  | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
+| 0013 | Integer to Roman                                     | `roman-to-integer.java`                                  | [🔗](https://leetcode.com/problems/integer-to-roman/)                                  |
+| 0014 | Longest Common Prefix                                | `longest-common-prefix.java`                             | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
+| 0021 | Longest Common Prefix                                | `merge-two-sorted-lists.java`                             | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)                           |
 | 0026 | Remove Duplicates from Sorted Array                  | `remove-duplicates-from-sorted-array.java`               | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               |
 | 0028 | Find the Index of the First Occurrence  in a String  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | 0066 | Plus One                                             | `plus-one/`                                              | [🔗](https://leetcode.com/problems/plus-one/)                                          |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
-| 0217 | Contains Duplicate                                   | `contains-duplicat.java`                                 | [🔗](https://leetcode.com/problems/contains-duplicate/)                                |
+| 0217 | Contains Duplicate                                   | `contains-duplicate.java`                                | [🔗](https://leetcode.com/problems/contains-duplicate/)                                |
 | 0242 | valid-anagram                                        | `valid-anagram.java`                                     | [🔗](https://leetcode.com/problems/valid-anagram/)                                     |
 | 0283 | move-zeroes                                          | `move-zeroes.java`                                       | [🔗](https://leetcode.com/problems/move-zeroes/)                                       |
 | 0344 | Reverse String                                       | `reverse-string/`                                        | [🔗](https://leetcode.com/problems/reverse-string/)                                    |
 | 0350 | intersection-of-two-arrays-ii                        | `intersection-of-two-arrays-ii.java`                     | [🔗](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                     |
-| 0387 | First Unique Character in a String                   | `reverse-string/`                                        | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/)                |
+| 0387 | First Unique Character in a String                   | `first-unique-character/`                                | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/)                |
 | ...  | ...                                                  | ...                                                      | ...                                                                                    |
 
 ---
