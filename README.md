@@ -57,8 +57,8 @@ leetcode-practice/
 
 | No.  |              Title                                   | Java File                                                | Link                                                                                   |
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 0007 | Reverse Integer                                      | `reverse-integer/`                                       | [🔗](https://leetcode.com/problems/reverse-integer/)                                  |
-| 0008 | String to Integer (atoi)                             | `string-to-integer-atoi/`                                | [🔗](https://leetcode.com/problems/string-to-integer-atoi/)                           |
+| 0007 | Reverse Integer                                      | `reverse-integer.java`                                   | [🔗](https://leetcode.com/problems/reverse-integer/)                                  |
+| 0008 | String to Integer (atoi)                             | `string-to-integer-atoi.java`                            | [🔗](https://leetcode.com/problems/string-to-integer-atoi/)                           |
 | 0122 | Best Time to Buy and Sell Stock II                   | `best-time-to-buy-and-sell-stock-ii.java`                | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)               |
 | 0189 | Rotate Array                                         | `rotate-array.java`                                      | [🔗](https://leetcode.com/problems/rotate-array/)                                     |
 | 0237 | Delete Node in a Linked List                         | `delete-node-in-a-linked-list.java`                      | [🔗](https://leetcode.com/problems/delete-node-in-a-linked-list/)                     |
