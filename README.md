@@ -38,9 +38,11 @@ leetcode-practice/
 | 0009 | palindrome-number                                    | `palindrome-number.java`                                 | [🔗](https://leetcode.com/problems/palindrome-number/)                                 |
 | 0013 | Integer to Roman                                     | `roman-to-integer.java`                                  | [🔗](https://leetcode.com/problems/integer-to-roman/)                                  |
 | 0014 | Longest Common Prefix                                | `longest-common-prefix.java`                             | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
-| 0021 | Longest Common Prefix                                | `merge-two-sorted-lists.java`                             | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)                           |
+| 0021 | Longest Common Prefix                                | `merge-two-sorted-lists.java`                            | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)                           |
 | 0026 | Remove Duplicates from Sorted Array                  | `remove-duplicates-from-sorted-array.java`               | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               |
 | 0028 | Find the Index of the First Occurrence  in a String  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
+| 0035 | Search Insert Position                               | `search-insert-position.java`                            | [🔗](https://leetcode.com/problems/search-insert-position/) |
+| 0058 | Length of Last Word                                  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/length-of-last-word/) |
 | 0066 | Plus One                                             | `plus-one/`                                              | [🔗](https://leetcode.com/problems/plus-one/)                                          |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
