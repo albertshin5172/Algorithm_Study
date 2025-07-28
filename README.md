@@ -40,6 +40,7 @@ leetcode-practice/
 | 0014 | Longest Common Prefix                                | `longest-common-prefix.java`                             | [🔗](https://leetcode.com/problems/longest-common-prefix/)                             |
 | 0021 | Merge Two Sorted Lists                               | `merge-two-sorted-lists.java`                            | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/)                            |
 | 0026 | Remove Duplicates from Sorted Array                  | `remove-duplicates-from-sorted-array.java`               | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               |
+| 0027 | Remove Element                                       | `remove-element.java`                                    | [🔗](https://leetcode.com/problems/remove-element)                                     |
 | 0028 | Find the Index of the First Occurrence  in a String  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | 0035 | Search Insert Position                               | `search-insert-position.java`                            | [🔗](https://leetcode.com/problems/search-insert-position/)                            |
 | 0058 | Length of Last Word                                  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/length-of-last-word/)                               |
@@ -64,6 +65,7 @@ leetcode-practice/
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
 | 0007 | Reverse Integer                                      | `reverse-integer.java`                                   | [🔗](https://leetcode.com/problems/reverse-integer/)                                  |
 | 0008 | String to Integer (atoi)                             | `string-to-integer-atoi.java`                            | [🔗](https://leetcode.com/problems/string-to-integer-atoi/)                           |
+| 0019 | Remove Nth Node From End Of List                     | `remove-nth-node-from-end-of-list.java`                  | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                 |
 | 0053 | Maximum Subarray                                     | `maximum-subarray.java`                                  | [🔗](https://leetcode.com/problems/maximum-subarray/)                                 |
 | 0122 | Best Time to Buy and Sell Stock II                   | `best-time-to-buy-and-sell-stock-ii.java`                | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)               |
 | 0189 | Rotate Array                                         | `rotate-array.java`                                      | [🔗](https://leetcode.com/problems/rotate-array/)                                     |
