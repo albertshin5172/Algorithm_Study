@@ -44,17 +44,19 @@ leetcode-practice/
 | 0028 | Find the Index of the First Occurrence  in a String  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | 0035 | Search Insert Position                               | `search-insert-position.java`                            | [🔗](https://leetcode.com/problems/search-insert-position/)                            |
 | 0058 | Length of Last Word                                  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/length-of-last-word/)                               |
-| 0066 | Plus One                                             | `plus-one.java/`                                         | [🔗](https://leetcode.com/problems/plus-one/)                                          |
-| 0067 | Add Binary                                           | `add-binary.java/`                                       | [🔗](https://leetcode.com/problems/add-binary/)                                        |
+| 0066 | Plus One                                             | `plus-one.java`                                          | [🔗](https://leetcode.com/problems/plus-one/)                                          |
+| 0067 | Add Binary                                           | `add-binary.java`                                        | [🔗](https://leetcode.com/problems/add-binary/)                                        |
+| 0067 | First Bad Version                                    | `first-bad-version.java`                                | [🔗](https://leetcode.com/problems/first-bad-version/)                                  |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
 | 0206 | Reverse Linked List                                  | `reverse-linked-list.java`                               | [🔗](https://leetcode.com/problems/reverse-linked-list)                                |
 | 0217 | Contains Duplicate                                   | `contains-duplicate.java`                                | [🔗](https://leetcode.com/problems/contains-duplicate/)                                |
 | 0242 | valid-anagram                                        | `valid-anagram.java`                                     | [🔗](https://leetcode.com/problems/valid-anagram/)                                     |
 | 0283 | move-zeroes                                          | `move-zeroes.java`                                       | [🔗](https://leetcode.com/problems/move-zeroes/)                                       |
-| 0344 | Reverse String                                       | `reverse-string/`                                        | [🔗](https://leetcode.com/problems/reverse-string/)                                    |
+| 0278 | First Bad Version                                    | `first-bad-version.java`                                 | [🔗](https://leetcode.com/problems/first-bad-version/)                                 |
+| 0344 | Reverse String                                       | `reverse-string.java/`                                   | [🔗](https://leetcode.com/problems/reverse-string/)                                    |
 | 0350 | intersection-of-two-arrays-ii                        | `intersection-of-two-arrays-ii.java`                     | [🔗](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                     |
-| 0387 | First Unique Character in a String                   | `first-unique-character/`                                | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/)                |
+| 0387 | First Unique Character in a String                   | `first-unique-character.java`                            | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/)                |
 | ...  | ...                                                  | ...                                                      | ...                                                                                    |
 
 ---
