@@ -45,8 +45,9 @@ leetcode-practice/
 | 0035 | Search Insert Position                               | `search-insert-position.java`                            | [🔗](https://leetcode.com/problems/search-insert-position/)                            |
 | 0058 | Length of Last Word                                  | `find-the-index-of-the-first-occurrence-in-a-string.java`| [🔗](https://leetcode.com/problems/length-of-last-word/)                               |
 | 0066 | Plus One                                             | `plus-one.java`                                          | [🔗](https://leetcode.com/problems/plus-one/)                                          |
-| 0067 | Add Binary                                           | `add-binary.java`                                        | [🔗](https://leetcode.com/problems/add-binary/)                                        |
-| 0067 | First Bad Version                                    | `first-bad-version.java`                                | [🔗](https://leetcode.com/problems/first-bad-version/)                                  |
+| 0069 | sqrtx                                                | `sqrtx.java`                                             | [🔗](https://leetcode.com/problems/sqrtx/)                                             |
+| 0083 | Remove Duplicates from Sorted List                   | `remove-duplicates-from-sorted-list.java`                | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                |
+| 0278 | First Bad Version                                    | `first-bad-version.java`                                 | [🔗](https://leetcode.com/problems/first-bad-version/)                                 |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
 | 0206 | Reverse Linked List                                  | `reverse-linked-list.java`                               | [🔗](https://leetcode.com/problems/reverse-linked-list)                                |
@@ -65,6 +66,7 @@ leetcode-practice/
 
 | No.  |              Title                                   | Java File                                                | Link                                                                                   |
 |------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------|
+| 0002 | Add Two Numbers                                      | `add-two-numbers.java`                                   | [🔗](https://leetcode.com/problems/add-two-numbers/)                                  |
 | 0007 | Reverse Integer                                      | `reverse-integer.java`                                   | [🔗](https://leetcode.com/problems/reverse-integer/)                                  |
 | 0008 | String to Integer (atoi)                             | `string-to-integer-atoi.java`                            | [🔗](https://leetcode.com/problems/string-to-integer-atoi/)                           |
 | 0019 | Remove Nth Node From End Of List                     | `remove-nth-node-from-end-of-list.java`                  | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                 |
