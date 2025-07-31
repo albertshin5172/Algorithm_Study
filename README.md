@@ -47,6 +47,8 @@ leetcode-practice/
 | 0066 | Plus One                                             | `plus-one.java`                                          | [🔗](https://leetcode.com/problems/plus-one/)                                          |
 | 0069 | sqrtx                                                | `sqrtx.java`                                             | [🔗](https://leetcode.com/problems/sqrtx/)                                             |
 | 0083 | Remove Duplicates from Sorted List                   | `remove-duplicates-from-sorted-list.java`                | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                |
+| 0100 | Same Tree                                            | `same-tree.java`                                         | [🔗](https://leetcode.com/problems/same-tree/)                                         |
+| 0104 | Maximum Depth of Binary Tre                          | `maximum-depth-of-binary-tree.java`                      | [🔗](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                      |
 | 0278 | First Bad Version                                    | `first-bad-version.java`                                 | [🔗](https://leetcode.com/problems/first-bad-version/)                                 |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
