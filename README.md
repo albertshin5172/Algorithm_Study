@@ -50,7 +50,9 @@ leetcode-practice/
 | 0083 | Remove Duplicates from Sorted List                   | `remove-duplicates-from-sorted-list.java`                | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                |
 | 0100 | Same Tree                                            | `same-tree.java`                                         | [🔗](https://leetcode.com/problems/same-tree/)                                         |
 | 0101 | Symmetric Tree                                       | `symmetric-tree.java`                                    | [🔗](https://leetcode.com/problems/symmetric-tree/)                                    |
-| 0104 | Maximum Depth of Binary Tre                          | `maximum-depth-of-binary-tree.java`                      | [🔗](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                      |
+| 0104 | Maximum Depth of Binary Tree                         | `maximum-depth-of-binary-tree.java`                      | [🔗](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                      |
+| 0121 | Best Time to Buy and Sell Stock                      | `best-time-to-buy-and-sell-stock.java`                   | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                   |
+| 0234 | Best Time to Buy and Sell Stock                      | `palindrome-linked-list.java`                            | [🔗](https://leetcode.com/problems/palindrome-linked-list/)                   |
 | 0278 | First Bad Version                                    | `first-bad-version.java`                                 | [🔗](https://leetcode.com/problems/first-bad-version/)                                 |
 | 0125 | valid-palindrome                                     | `valid-palindrome.java`                                  | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
 | 0136 | Single Number                                        | `SingleNumber.java`                                      | [🔗](https://leetcode.com/problems/single-number/)                                     |
