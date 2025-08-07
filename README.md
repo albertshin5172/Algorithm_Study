@@ -53,6 +53,8 @@ leetcode-practice/
 | 0121 | Best Time to Buy and Sell Stock                    | `best-time-to-buy-and-sell-stock.java`                    | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                   |
 | 0168 | Excel Sheet Column Title                           | `excel-sheet-column-title.java`                           | [🔗](https://leetcode.com/problems/excel-sheet-column-title/)                          |
 | 0169 | Majority Element                                   | `majority-element.java`                                   | [🔗](https://leetcode.com/problems/majority-element/)                                  |
+| 0171 | Excel Sheet Column Number                          | `excel-sheet-column-number.java`                          | [🔗](https://leetcode.com/problems/excel-sheet-column-number/)                         |
+| 0202 | Happy Number                                       | `happy-number.java`                                       | [🔗](https://leetcode.com/problems/happy-number/)                                      |
 | 0234 | Palindrome Linked List                             | `palindrome-linked-list.java`                             | [🔗](https://leetcode.com/problems/palindrome-linked-list/)                            |
 | 0278 | First Bad Version                                  | `first-bad-version.java`                                  | [🔗](https://leetcode.com/problems/first-bad-version/)                                 |
 | 0125 | valid-palindrome                                   | `valid-palindrome.java`                                   | [🔗](https://leetcode.com/problems/valid-palindrome/)                                  |
@@ -65,6 +67,7 @@ leetcode-practice/
 | 0344 | Reverse String                                     | `reverse-string.java/`                                    | [🔗](https://leetcode.com/problems/reverse-string/)                                    |
 | 0350 | intersection-of-two-arrays-ii                      | `intersection-of-two-arrays-ii.java`                      | [🔗](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                     |
 | 0387 | First Unique Character in a String                 | `first-unique-character.java`                             | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/)                |
+| 0572 | subtree-of-another-tree                            | `subtree-of-another-tree.java`                            | [🔗](https://leetcode.com/problems/subtree-of-another-tree/)                           |
 | ...  | ...                                                | ...                                                       | ...                                                                                    |
 
 ---
