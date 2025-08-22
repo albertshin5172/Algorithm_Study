@@ -82,9 +82,10 @@ leetcode-practice/
 | 0019 | Remove Nth Node From End Of List   | `remove-nth-node-from-end-of-list.java`   | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)   |
 | 0053 | Maximum Subarray                   | `maximum-subarray.java`                   | [🔗](https://leetcode.com/problems/maximum-subarray/)                   |
 | 0122 | Best Time to Buy and Sell Stock II | `best-time-to-buy-and-sell-stock-ii.java` | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
-| 0167 | Two Sum II - Input Array Is Sorted | `two-sum-ii-input-array-is-sorted.java`   | [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 0167 | Two Sum II - Input Array Is Sorted | `two-sum-ii-input-array-is-sorted.java`   | [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   |
 | 0189 | Rotate Array                       | `rotate-array.java`                       | [🔗](https://leetcode.com/problems/rotate-array/)                       |
 | 0237 | Delete Node in a Linked List       | `delete-node-in-a-linked-list.java`       | [🔗](https://leetcode.com/problems/delete-node-in-a-linked-list/)       |
+| 2843 | Count Symmetric Integers           | `count-symmetric-integers.java`           | [🔗](https://leetcode.com/problems/count-symmetric-integers/)           |
 | ...  | ...                                | ...                                       | ...                                                                     |
 
 ---
