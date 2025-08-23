@@ -1,5 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        /*
         char[] charArr1 = s.toCharArray(); // String to Char Array
         char[] charArr2 = t.toCharArray(); // String to Char Array
         Arrays.sort(charArr1); // Char Array1 Alphabetical Sort
@@ -10,5 +11,19 @@ class Solution {
         
         if(result1.equals(result2)) return true;
         else return false;
+        */
+
+        if(s.length() != t.length()) return false;
+
+        int [] counts = new int[26];
+
+        for(char c : s.toCharArray()){
+            counts[c - 'a']++;
+        }
+        for(char c : t.toCharArray()){
+            counts[c - 'a']--;
+            if(counts[c-'a'] < 0 ) return false;
+        }
+        return true;
     }
 }
