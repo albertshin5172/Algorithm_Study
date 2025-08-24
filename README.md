@@ -79,6 +79,8 @@ leetcode-practice/
 | 0002 | Add Two Numbers                    | `add-two-numbers.java`                    | [🔗](https://leetcode.com/problems/add-two-numbers/)                    |
 | 0007 | Reverse Integer                    | `reverse-integer.java`                    | [🔗](https://leetcode.com/problems/reverse-integer/)                    |
 | 0008 | String to Integer (atoi)           | `string-to-integer-atoi.java`             | [🔗](https://leetcode.com/problems/string-to-integer-atoi/)             |
+| 0011 | Container With Most Water          | `container-with-most-water.java`          | [🔗](https://leetcode.com/problems/container-with-most-water/)          |
+| 0015 | 3Sum                               | `3sum.java`                               | [🔗](https://leetcode.com/problems/3sum/)                               |
 | 0019 | Remove Nth Node From End Of List   | `remove-nth-node-from-end-of-list.java`   | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)   |
 | 0053 | Maximum Subarray                   | `maximum-subarray.java`                   | [🔗](https://leetcode.com/problems/maximum-subarray/)                   |
 | 0122 | Best Time to Buy and Sell Stock II | `best-time-to-buy-and-sell-stock-ii.java` | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
