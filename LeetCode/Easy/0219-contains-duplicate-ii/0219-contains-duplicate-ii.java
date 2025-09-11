@@ -1,25 +1,23 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        // Check if the current number already exists in the window
-        // If yes, it means a duplicate exists within distance k
+        // Use a HashSet to represent the sliding window of size k
         Set<Integer> window = new HashSet<>();
 
-        // Iterate through the array
-        for(int i=0; i<nums.length; i++){
-            // Check if the current number already exists in the window
-            // If yes, it means a duplicate exists within distance k
-            if(window.contains(nums[i])){
-                return true;
-            }
+        for (int i = 0; i < nums.length; i++) {
+            // If the current number already exists in the window,
+            // then we have found a duplicate within distance k
+            if (window.contains(nums[i])) return true;
 
             // Add the current number to the window
             window.add(nums[i]);
-            // If the size of the window exceeds k, remove the oldest element
-            // This maintains the window size to at most k elements
-            if(window.size() > k){
-                window.remove(nums[i-k]);
+
+            // Maintain the window size: remove the element that is out of range (i - k)
+            if (window.size() > k) {
+                window.remove(nums[i - k]);
             }
         }
+
+        // If no duplicates found within distance k, return false
         return false;
     }
 }
