@@ -3,23 +3,22 @@ class Solution {
         int windowSum = 0;   // Current sum of the sliding window
         int result = 0;      // Count of subarrays that meet the condition
 
-        // 1️⃣ Initialize the first window (sum of the first k elements)
-        for (int i = 0; i < k; i++) {
+        // 1. Initialize the first window (sum of the first k elements)
+        for(int i=0; i<k; i++){
             windowSum += arr[i];
         }
         // Check the first window average
-        if (windowSum >= k * threshold) result++;
-
-        // 2️⃣ Slide the window across the array
-        for (int i = k; i < arr.length; i++) {
+         if (windowSum / k >= threshold) result++;
+         
+        // 2. Slide the window across the array
+        for(int i=k; i<arr.length; i++){
             // Add the new element and remove the element that goes out of the window
-            windowSum += arr[i] - arr[i - k];
+            windowSum += arr[i] - arr[i-k];
 
             // Check if the new window meets the condition
-            if (windowSum >= k * threshold) result++;
+            if((windowSum/k) >= threshold) result++;
         }
-
-        // 3️⃣ Return the final result
+        // 3. Return the final result
         return result;
     }
 }
