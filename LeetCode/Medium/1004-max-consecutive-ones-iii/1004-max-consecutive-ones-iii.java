@@ -11,16 +11,15 @@ class Solution {
 
             // If the number of zeros exceeds k, shrink the window from the left
             while(zero > k){
-                if(nums[left] == 0){
-                    zero--; // Decrease zero count if we move past a 0
-                }
-                left++;  //Move left pointer to shrink the window
+                if(nums[left] == 0) zero--; // Decrease zero count if we move past a 0
+                left++; // Move left pointer to shrink the window
             }
+
             // Update the maximum window size found so far
             maxLen = Math.max(maxLen, right-left+1);
         }
-
-         // Return the length of the longest subarray with at most k zeros
+        
+        // Return the length of the longest subarray with at most k zeros
         return maxLen;
     }
 }
