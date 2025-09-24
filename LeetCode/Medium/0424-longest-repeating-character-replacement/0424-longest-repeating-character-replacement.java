@@ -35,8 +35,9 @@ class Solution {
 
         for(int right=0; right<s.length(); right++){
             int idx = s.charAt(right)-'A';
-           
-            maxFreq = Math.max(maxFreq, ++count[idx]);
+            count[idx]++;
+
+            maxFreq = Math.max(maxFreq, count[idx]);
 
             while(right-left+1-maxFreq > k){
                 count[s.charAt(left) - 'A']--;
