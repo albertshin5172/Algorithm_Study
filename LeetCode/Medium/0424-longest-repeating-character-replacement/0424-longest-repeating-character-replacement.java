@@ -1,6 +1,7 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         /* Hash */
+        /*
         HashMap<Character, Integer> count = new HashMap<>();
         int result = 0;
         int left = 0;
@@ -19,8 +20,29 @@ class Solution {
                 count.put(leftChar, count.get(leftChar)-1);
                 left++;
             }
-            
+
             // update result with valid window length
+            result = Math.max(result, right-left+1);
+        }
+        return result;
+        */
+        
+        /* Array */
+        int[] count = new int[26];
+        int left = 0;
+        int maxFreq = 0;
+        int result = 0;
+
+        for(int right=0; right<s.length(); right++){
+            int idx = s.charAt(right)-'A';
+           
+            maxFreq = Math.max(maxFreq, ++count[idx]);
+
+            while(right-left+1-maxFreq > k){
+                count[s.charAt(left) - 'A']--;
+                left++;
+            }
+
             result = Math.max(result, right-left+1);
         }
         return result;
