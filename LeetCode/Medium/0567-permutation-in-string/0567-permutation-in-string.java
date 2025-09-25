@@ -18,10 +18,9 @@ class Solution {
         }
 
         // Count how many characters currently match in count between need and window
-        for (int i = 0; i < 26; i++) 
-            if (need[i] == window[i]) 
-                matches++;
-
+        for (int i = 0; i < 26; i++) {
+            if (need[i] == window[i]) matches++;
+        }
         // If all characters match, return true immediately
         if (matches == 26) return true;
 
