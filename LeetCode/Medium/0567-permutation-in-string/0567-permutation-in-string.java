@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+        
         int m = s1.length();
         int n = s2.length();
         int matches = 0;
@@ -44,5 +45,6 @@ class Solution {
 
         // No permutation found in s2
         return false;
+        
     }
 }
