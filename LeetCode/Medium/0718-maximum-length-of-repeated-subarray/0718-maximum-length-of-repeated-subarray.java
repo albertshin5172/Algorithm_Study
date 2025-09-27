@@ -1,6 +1,7 @@
 class Solution {
     public int findLength(int[] nums1, int[] nums2) {
-        int n = nums1.length, m = nums2.length; 
+        int n = nums1.length, 
+        int m = nums2.length; 
         int[][] dp = new int[n+1][m+1]; // DP table to store lengths of common suffixes
         int maxLen = 0; // Variable to track the maximum length found
         
