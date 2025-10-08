@@ -14,7 +14,7 @@ class Solution {
         // Only 1 way to climb 1 step
         // Two ways to climb 2 steps (1+1 or 2)
         dp[0] = 1;
-        dp[1] = 2;
+        dp[1] = 1;
 
         // Compute the number of ways for steps 3 to n
         // Each step i can be reached either from step (i-1) or (i-2)
