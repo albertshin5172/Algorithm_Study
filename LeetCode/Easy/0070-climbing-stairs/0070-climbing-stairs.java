@@ -19,7 +19,7 @@ class Solution {
         // Compute the number of ways for steps 3 to n
         // Each step i can be reached either from step (i-1) or (i-2)
         // So: ways(i) = ways(i-1) + ways(i-2)
-        for(int i= 2; i<n; i++){
+        for(int i= 3; i<n; i++){
             dp[i] = dp[i-1] + dp[i-2];
         }
 
