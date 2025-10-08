@@ -1,32 +1,29 @@
 class Solution {
     public int climbStairs(int n) {
-        /*
-        if(n ==1 || n==2) return n;
-
-        int [] arr = new int [n];
-        arr[0]=1;
-        arr[1]=2;
-
-        for(int i=2; i<arr.length; i++){
-            arr[i] = arr[i-1]+arr[i-2];
+        // Base cases: if there is only 1 or 2 steps, 
+        // the number of ways to climb is equal to n itself
+        if(n == 1 && n == 2) {
+            return n;
         }
-        return arr[n-1];
-        */
-        //DP array memory optimization (using only two variables)
-        // Initialize 1st value, 2nd value
-        if (n == 1) return 1;
-        if (n == 2) return 2;
+       
 
-        int first = 1;  // Ways to climb to step 1 (f(1))
-        int second = 2; // Ways to climb to step 2 (f(2))
-        int result = 0;
+        // Create an array to store the number of ways to climb each step
+        int[] dp = new int[n];
 
-        // Repeat from the 3rd to the nth time
-        for (int i = 3; i <= n; i++) {
-            result = first + second; // f(n) = f(n-1) + f(n-2)
-            first = second;          //Move one space (update the previous value)
-            second = result;         //Move one space (update the latest value)
+        // Initialize the first two steps
+        // Only 1 way to climb 1 step
+        // Two ways to climb 2 steps (1+1 or 2)
+        dp[0] = 1;
+        dp[1] = 2;
+
+        // Compute the number of ways for steps 3 to n
+        // Each step i can be reached either from step (i-1) or (i-2)
+        // So: ways(i) = ways(i-1) + ways(i-2)
+        for(int i= 2; i<n; i++){
+            dp[i] = dp[i-1] + dp[i-2];
         }
-        return result;
+
+        // Return the number of ways to climb n steps
+        return dp[n-1];
     }
 }
