@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
 
         // If there is only one house, the maximum money is just nums[0]
-        if(n==1) return num[0];
+        if(n==1) return nums[0];
 
         // dp[i] represents the maximum amount of money that can be robbed from the first i+1 houses
         int[] dp = new int[n];
