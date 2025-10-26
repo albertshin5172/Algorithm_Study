@@ -24,10 +24,7 @@ class Solution {
                     } else {
                         // Otherwise, take the minimum of the three neighbors 
                         // (top, left, top-left) and add 1. This ensures a valid square.
-                        dp[i][j] = Math.min(
-                            Math.min(dp[i-1][j], dp[i][j-1]),
-                            dp[i-1][j-1]
-                        ) + 1;
+                        dp[i][j] = Math.min(Math.min(dp[i-1][j], dp[i][j-1]), dp[i-1][j-1]) + 1;
                     }
                     // Update maxSide with the largest square side found so far
                     maxSide = Math.max(maxSide, dp[i][j]);
