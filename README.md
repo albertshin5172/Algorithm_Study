@@ -3,6 +3,7 @@
 > Personal repository for solving LeetCode problems categorized by difficulty and topic.  
 > 💻 Language: **Java**  
 > 🧠 Purpose: Enhance problem-solving skills and prepare for technical interviews.
+> Two pointer, Sliding window, Dynamic programming, etc
 
 ---
 
