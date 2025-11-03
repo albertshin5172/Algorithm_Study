@@ -1,7 +1,7 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
-        // Initialize closest sum with the sum of the first three elements
+         // Initialize closest sum with the sum of the first three elements
         int closestSum = nums[0] + nums[1] + nums[2];
 
         for(int i=0; i<nums.length-2; i++){
@@ -9,9 +9,8 @@ class Solution {
             int k = nums.length-1;
 
             while(j<k){
-                int sum = nums[i] + nums[j] + nums[k];
-
-                if(Math.abs(target-sum) < Math.abs(target-closestSum)){
+                int sum = nums[i] + nums[j] + nums[k]; 
+                if(Math.abs(target-closestSum) > Math.abs(target-sum)){
                     // Update closest sum if the current sum is closer to the target
                     closestSum = sum;
                 }
