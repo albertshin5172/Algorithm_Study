@@ -1,5 +1,7 @@
 class Solution {
     public void moveZeroes(int[] nums) {
+        class Solution {
+    public void moveZeroes(int[] nums) {
         //The keypoint is O(n) / in-place / one-pass
         //Position where non-zero elements will be placed
         int idx = 0;
@@ -29,5 +31,7 @@ class Solution {
             nums[nums.length-1-i] = 0;
         }
         */
+    }
+}
     }
 }
