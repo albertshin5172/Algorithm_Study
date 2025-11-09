@@ -1,21 +1,22 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        int n = nums.length;
-        int left = 0;                       // Start index of the sliding window
-        int sum = 0;                        // Current sum of the sliding window
-        int minLen = Integer.MAX_VALUE;     // Result: minimum length found
+        int left = 0; // Left pointer of the sliding window
+        int sum = 0; // Current sum of the window
+        int minLen = Integer.MAX_VALUE; // Minimum length of subarray found
 
-        for(int right=0; right < n; right++){
-            sum += nums[right];             // Expand window by moving right pointer
+        // Expand the window by moving the right pointer
+        for(int right = 0; right < nums.length; right++){
+            sum += nums[right]; // Add current element to the window sum
 
-            // Try to shrink the window if the sum is greater than or equal to target
+            // Shrink the window from the left while the sum meets or exceeds target
             while(sum >= target){
-                minLen = Math.min(minLen, right-left+1);
-                sum -= nums[left];          // Remove leftmost element from the window
-                left++;                     // Shrink window from the left
+                minLen = Math.min(minLen, right - left + 1); // Update minimum length
+                sum -= nums[left]; // Remove leftmost element from the sum
+                left++; // Move left pointer to the right
             }
         }
-        // Return 0 if no such subarray exists that meets the target
+
+        // If no valid subarray found, return 0; otherwise return minLen
         return (Integer.MAX_VALUE == minLen) ? 0 : minLen;
     }
 }
