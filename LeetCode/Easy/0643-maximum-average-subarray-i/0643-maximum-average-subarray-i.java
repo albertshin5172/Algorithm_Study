@@ -1,12 +1,12 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         // Initialize sum to store the sum of the first 'k' elements
-        double sum = 0;
+        long sum = 0;
         
         for(int i=0; i<k; i++) sum += nums[i];
 
         // Initialize max with the sum of the first window        
-        double max = sum;
+        long max = sum;
         
         // Slide the window from index k to the end of the array
         for(int i=k; i<nums.length; i++){
