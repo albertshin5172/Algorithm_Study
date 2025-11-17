@@ -20,4 +20,3 @@ class Solution {
         return max/(double)k;
     }
 }
-
