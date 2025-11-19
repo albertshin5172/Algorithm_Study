@@ -34,3 +34,4 @@ class Solution {
         // Total = always satisfied + best extra satisfied using the technique
         return cust + maxExtra;
     }
+}
