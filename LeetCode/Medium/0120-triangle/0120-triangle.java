@@ -1,6 +1,6 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        /*
+        
         int n = triangle.size();
         int[] dp = new int[n];
 
@@ -18,7 +18,7 @@ class Solution {
 
         // 3. dp[0] now contains the minimum path sum from the top to the bottom
         return dp[0];
-        */
+        /*
         int n = triangle.size();
         int[][] dp = new int[n][n];
 
@@ -39,5 +39,6 @@ class Solution {
 
         // 3. dp[0][0] now contains the minimum path sum from top to bottom
         return dp[0][0];
+        */
     }
 }
