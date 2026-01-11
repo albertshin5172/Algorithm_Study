@@ -1,5 +1,5 @@
 class Solution {
-    public int[] twoSum(int[] nums, int target) {        
+    public int[] twoSum(int[] nums, int target) {
         // HashMap to store number and its index
         Map<Integer, Integer> map = new HashMap<>();
 
