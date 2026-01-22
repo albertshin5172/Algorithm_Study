@@ -1,23 +1,25 @@
 class Solution {
     public int maxVowels(String s, int k) {
         String vowels = "aeiou";
-        int count = 0, maxCount = 0;
+        int cnt = 0, maxCnt = 0;
 
         // 1. Initial window (the first k characters)
         for(int i=0; i<k; i++){
-            if(vowels.indexOf(s.charAt(i)) != -1 ) count++;
+            if(vowels.indexOf(s.charAt(i)) != -1) cnt++;
         }
+        
+        maxCnt = cnt;
 
-        maxCount = count;
-         // 2. Use a sliding window approach
+        // 2. Use a sliding window approach
         for(int i=k; i<s.length(); i++){
             // New character on the right
-            if(vowels.indexOf(s.charAt(i)) != -1 ) count++;
+            if(vowels.indexOf(s.charAt(i)) != -1) cnt++;
             // Missing character on the left
-            if(vowels.indexOf(s.charAt(i-k)) != -1 ) count--;
+            if(vowels.indexOf(s.charAt(i-k)) != -1) cnt--;
             // Update the maximum
-            maxCount = Math.max(maxCount, count);
+            maxCnt = Math.max(maxCnt, cnt);
         }
-        return maxCount;
+        
+        return maxCnt;
     }
 }
