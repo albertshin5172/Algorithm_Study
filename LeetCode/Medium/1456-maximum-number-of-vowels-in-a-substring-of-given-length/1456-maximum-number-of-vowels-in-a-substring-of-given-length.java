@@ -24,31 +24,43 @@ class Solution {
         return maxCnt;
         */
 
+        // Use a boolean array for O(1) vowel lookup (faster than String.indexOf or Set)
         boolean[] isVowel = new boolean[128];
         isVowel['a'] = isVowel['e'] = isVowel['i'] = isVowel['o'] = isVowel['u'] = true;
 
+        // Convert string to char array to avoid the overhead of s.charAt() in loops
         char[] chr = s.toCharArray();
         int len = chr.length;
         int cnt = 0;
 
-        for(int i=0; i<k; i++){
-            if(isVowel[chr[i]]) cnt++;
+        // 1. Process the initial window of size k
+        for (int i = 0; i < k; i++) {
+            if (isVowel[chr[i]]) {
+                cnt++;
+            }
         }
-        
+
         int maxCnt = cnt;
         
-        for(int i=k; i<len; i++){
-            if(isVowel[chr[i]]) cnt++;
+        // Early exit: if we already found the maximum possible vowels, return immediately
+        if (maxCnt == k) return k;
 
-            if(isVowel[chr[i-k]]) cnt--;
+        // 2. Slide the window from index k to the end of the string
+        for (int i = k; i < len; i++) {
+            // Add the new character entering from the right
+            if (isVowel[chr[i]]) cnt++;
+            
+            // Remove the character exiting from the left
+            if (isVowel[chr[i - k]]) cnt--;
 
+            // Update maxCount if the current window has more vowels
             if (cnt > maxCnt) {
                 maxCnt = cnt;
-
+                // Optimization: Stop early if maxCount reaches the window size k
                 if (maxCnt == k) return k;
             }
         }
-        
+
         return maxCnt;
     }
 }
