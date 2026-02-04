@@ -16,7 +16,7 @@ public class Solution {
         ListNode slow = head;
 
         // Traverse while fast pointer and its next node are not null
-        while (fast != null && fast.next != null) {
+        while(fast != null && fast.next != null){
             fast = fast.next.next; // Move fast pointer by 2 nodes
             slow = slow.next;      // Move slow pointer by 1 node
 
@@ -25,7 +25,6 @@ public class Solution {
                 return true;
             }
         }
-
         // If fast pointer reaches the end, no cycle exists
         return false;   
     }
