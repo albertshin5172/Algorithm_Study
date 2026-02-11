@@ -1,28 +1,16 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        /*
-        char[] charArr1 = s.toCharArray(); // String to Char Array
-        char[] charArr2 = t.toCharArray(); // String to Char Array
-        Arrays.sort(charArr1); // Char Array1 Alphabetical Sort
-        Arrays.sort(charArr2); // Char Array2 Alphabetical Sort
-        // Convert char array to String (String.valueOf(charArr1)(+charArr2) gives the same result)  
-        String result1 = new String(charArr1); 
-        String result2 = new String(charArr2);   
-        
-        if(result1.equals(result2)) return true;
-        else return false;
-        */
-
         if(s.length() != t.length()) return false;
 
-        int [] counts = new int[26];
+        int[] count = new int[26];
 
         for(char c : s.toCharArray()){
-            counts[c - 'a']++;
+            count[c - 'a']++;
         }
+
         for(char c : t.toCharArray()){
-            counts[c - 'a']--;
-            if(counts[c-'a'] < 0 ) return false;
+            count[c - 'a']--;
+            if(count[c-'a'] < 0 ) return false;
         }
         return true;
     }
