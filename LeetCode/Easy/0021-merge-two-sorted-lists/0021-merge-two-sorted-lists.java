@@ -15,7 +15,7 @@ class Solution {
         or deleting nodes in a linked list. They allow operations to be handled uniformly, 
         without having to treat the head node differently.  
         */
-        ListNode dummy = new ListNode(0);
+        ListNode dummy = new ListNode(-1);
         ListNode current = dummy;
 
         while(list1 != null && list2 !=null){
