@@ -1,5 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        /*
         // If lengths differ, they cannot be anagrams
         if (s.length() != t.length()) return false;
 
@@ -23,7 +24,8 @@ class Solution {
         }
 
         return true;
-        /*
+        */
+        
         // Basic length check
         if(s.length() != t.length()) return false;
 
@@ -44,6 +46,5 @@ class Solution {
         }
         
         return true;
-         */
     }
 }
