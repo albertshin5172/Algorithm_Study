@@ -5,7 +5,7 @@ class Solution {
         Set<Character> window = new HashSet<>();    // Set to track characters currently in the window
 
         // Loop through each character with right pointer
-        for(int right=0; right < s.length(); right++){
+        for(int right=0; right<s.length(); right++){
             char c = s.charAt(right);   // Current character at right pointer
 
             // If the character already exists in the window,
