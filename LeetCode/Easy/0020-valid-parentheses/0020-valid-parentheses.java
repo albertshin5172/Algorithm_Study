@@ -1,14 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
+        // Stack to store opening brackets
+        Stack<Character> stack = new Stack<> ();
 
-        for(int i=0; i<s.length(); i++){
+        // Iterate through each character in the string
+        for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if(ch == '(' || ch == '[' || ch == '{'){
+
+            // If it's an opening bracket, push to stack
+            if (ch == '(' || ch == '[' || ch == '{') {
                 stack.push(ch);
-            }else {
-                if(stack.isEmpty()) return false;
-                
+            } else {
+                // If stack is empty, there is no matching opening bracket
+                if (stack.isEmpty()) return false;
+
+                // Check if the current closing bracket matches the top of the stack
                 if (ch == ')') {
                     if (stack.peek() == '(') {
                         stack.pop();
@@ -16,6 +22,7 @@ class Solution {
                         return false;
                     }
                 }
+
                 if (ch == '}') {
                     if (stack.peek() == '{') {
                         stack.pop();
@@ -23,6 +30,7 @@ class Solution {
                         return false;
                     }
                 }
+
                 if (ch == ']') {
                     if (stack.peek() == '[') {
                         stack.pop();
@@ -32,6 +40,8 @@ class Solution {
                 }
             }
         }
+
+        // If stack is empty, all brackets were properly matched
         return stack.isEmpty();
     }
 }
