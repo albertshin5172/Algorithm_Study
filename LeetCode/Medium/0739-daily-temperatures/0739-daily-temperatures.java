@@ -1,28 +1,30 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        int n = temperatures.length;
-        int[] result = new int[n];
-        // The stack stores indices of temperatures, not the temperatures themselves
+
+        // Array to store the number of days to wait for a warmer temperature
+        int[] result = new int[temperatures.length];
+
+        // Stack to store indices of temperatures
+        // It maintains a decreasing monotonic stack (temperatures in descending order)
         Stack<Integer> stack = new Stack<>();
 
-        for (int i = 0; i < n; i++) {
-            /* * While the stack is not empty and the current temperature is higher 
-             * than the temperature at the index stored on top of the stack:
-             */
+        for (int i = 0; i < temperatures.length; i++) {
+
+            // While current temperature is higher than the temperature at the index on top of the stack
             while (!stack.isEmpty() && temperatures[stack.peek()] < temperatures[i]) {
-                // We found a warmer day for the day at 'prev' index
-                int prevIndex = stack.pop();
-                // Calculate the number of days until the warmer temperature
-                result[prevIndex] = i - prevIndex;
+
+                // Get the index of the previous colder day
+                int prev = stack.pop();
+
+                // Calculate the number of days waited for a warmer temperature
+                result[prev] = i - prev;
             }
-            
-            // Push the current index onto the stack to find its next warmer day later
+
+            // Push current index onto the stack
             stack.push(i);
         }
 
-        /* * Note: result array is initialized to 0, so days with no 
-         * future warmer temperature naturally remain 0.
-         */
+        // Remaining indices in the stack do not have a warmer future day (default value is 0)
         return result;
     }
 }
