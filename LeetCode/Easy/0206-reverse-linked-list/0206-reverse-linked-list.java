@@ -23,19 +23,16 @@ class Solution {
             Repeat until curr == null.
             Finally, prev will point to the new head of the reversed list.
         */
-        if(head == null) return null;
-
         ListNode prev = null;
         ListNode curr = head;
-        ListNode next = head.next;
+        ListNode next = null;
 
-        while(curr != null){
+        while(curr!=null){
+            next = curr.next;
             curr.next = prev;
             prev=curr;
             curr=next;
-            if(next != null) next = next.next;
         }
-
         return prev;
     }
 }
