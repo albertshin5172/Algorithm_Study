@@ -163,4 +163,16 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
