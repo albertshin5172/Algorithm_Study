@@ -171,8 +171,18 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
