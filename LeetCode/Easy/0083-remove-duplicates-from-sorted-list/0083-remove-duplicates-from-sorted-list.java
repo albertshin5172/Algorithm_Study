@@ -10,15 +10,23 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
+        // Pointer used to traverse the linked list
         ListNode node = head;
 
-        while(node != null && node.next != null){
-            if(node.val == node.next.val){
+        // Traverse the list while the current node and the next node exist
+        while (node != null && node.next != null) {
+
+            // If the current node value is the same as the next node value,
+            // skip the next node by adjusting the pointer
+            if (node.val == node.next.val) {
                 node.next = node.next.next;
-            }else{
+            } else {
+                // Otherwise, move to the next node
                 node = node.next;
             }
         }
+
+        // Return the head of the modified list
         return head;
     }
 }
