@@ -161,6 +161,7 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ cd leetcode-practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Stack
@@ -194,4 +196,8 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
