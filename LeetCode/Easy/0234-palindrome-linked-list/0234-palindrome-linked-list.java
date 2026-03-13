@@ -11,7 +11,7 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         List<Integer> val = new ArrayList<>();
-        
+
         // Store all node values in a list
         while(head != null){
             val.add(head.val);
@@ -23,7 +23,7 @@ class Solution {
         int right = val.size()-1;
         
         while(left < right){
-            if (!val.get(left).equals(val.get(right))) { return false;
+            if (!val.get(left).equals(val.get(right))) return false;
 
             left++;
             right--;
