@@ -151,6 +151,7 @@ cd leetcode-practice
 | [0021-merge-two-sorted-lists](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Recursion
@@ -163,6 +164,7 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
@@ -170,6 +172,7 @@ cd leetcode-practice
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
