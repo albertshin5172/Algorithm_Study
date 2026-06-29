@@ -1,18 +1,31 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int left = s.length();
-        int right = t.length();
 
-        if(left > right) return false;
+        // If s is longer than t, it can never be a subsequence.
+        if (s.length() > t.length()) {
+            return false;
+        }
 
+        // i -> pointer for string s
+        // j -> pointer for string t
         int i = 0;
         int j = 0;
 
-        while(i<left && j<right){
-            if(s.charAt(i) == t.charAt(j)) i++;
+        // Scan both strings from left to right.
+        while (i < s.length() && j < t.length()) {
 
+            // If characters match,
+            // move the pointer of s to look for the next character.
+            if (s.charAt(i) == t.charAt(j)) {
+                i++;
+            }
+
+            // Always move the pointer of t.
             j++;
         }
+
+        // If i reaches the end of s,
+        // every character in s appears in order.
         return i == s.length();
     }
 }
