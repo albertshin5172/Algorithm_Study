@@ -177,6 +177,7 @@ cd leetcode-practice
 | [0234-palindrome-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,8 +217,13 @@ cd leetcode-practice
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
