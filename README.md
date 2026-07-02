@@ -175,6 +175,7 @@ cd leetcode-practice
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ cd leetcode-practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
