@@ -16,15 +16,9 @@ class Solution {
                 swap(nums, left, mid);
                 left++;
                 mid++;
-            }
-
-            // 1 is already in the correct middle section.
-            else if (nums[mid] == 1) {
+            }else if (nums[mid] == 1) { // 1 is already in the correct middle section.
                 mid++;
-            }
-
-            // Place 2 at the end of the array.
-            else {
+            }else {  // Place 2 at the end of the array.
                 swap(nums, mid, right);
                 right--;
 
