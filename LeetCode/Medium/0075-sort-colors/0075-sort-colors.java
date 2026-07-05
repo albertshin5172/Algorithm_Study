@@ -1,6 +1,5 @@
 class Solution {
     public void sortColors(int[] nums) {
-
         // left: next position for 0
         // mid: current element being examined
         // right: next position for 2
