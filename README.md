@@ -174,6 +174,7 @@ cd leetcode-practice
 | [0019-remove-nth-node-from-end-of-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -187,6 +188,7 @@ cd leetcode-practice
 | [0011-container-with-most-water](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
