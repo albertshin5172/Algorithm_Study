@@ -154,6 +154,7 @@ cd leetcode-practice
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ cd leetcode-practice
 | [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 ## Array
 | Problem Name | Difficulty |
