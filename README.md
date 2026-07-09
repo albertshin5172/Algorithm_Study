@@ -181,6 +181,7 @@ cd leetcode-practice
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -196,6 +197,7 @@ cd leetcode-practice
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -249,4 +251,9 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
