@@ -200,6 +200,7 @@ cd leetcode-practice
 | [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -256,4 +257,8 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
