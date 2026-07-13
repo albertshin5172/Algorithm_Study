@@ -238,6 +238,7 @@ cd leetcode-practice
 | [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +262,5 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
