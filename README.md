@@ -164,6 +164,7 @@ cd leetcode-practice
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -235,6 +236,7 @@ cd leetcode-practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -261,6 +263,7 @@ cd leetcode-practice
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
