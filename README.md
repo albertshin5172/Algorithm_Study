@@ -168,6 +168,7 @@ cd leetcode-practice
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Two Pointers
@@ -200,6 +201,7 @@ cd leetcode-practice
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -267,6 +269,7 @@ cd leetcode-practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
