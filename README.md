@@ -207,6 +207,7 @@ cd leetcode-practice
 | [0560-subarray-sum-equals-k](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,5 +273,6 @@ cd leetcode-practice
 | [0219-contains-duplicate-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
