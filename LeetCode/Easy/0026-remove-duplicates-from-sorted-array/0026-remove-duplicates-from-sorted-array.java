@@ -5,7 +5,6 @@ class Solution {
 
         // read pointer starts from index 1
         for (int left = 1; left < nums.length; left++) {
-
             // if new unique element found
             if (nums[left] != nums[right]) {
                 right++;
