@@ -180,6 +180,7 @@ cd leetcode-practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -200,6 +201,7 @@ cd leetcode-practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -237,6 +239,7 @@ cd leetcode-practice
 | ------- | ------- |
 | [0015-3sum](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0881-boats-to-save-people](https://github.com/albertshin5172/Algorithm_Study/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 ## String
