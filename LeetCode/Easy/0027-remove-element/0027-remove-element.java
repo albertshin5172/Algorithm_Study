@@ -4,8 +4,9 @@ class Solution {
     public int removeElement(int[] nums, int val) {
         // If the array is empty, return 0
         if(nums.length == 0) return 0;
-
-        int cnt = 0; // Pointer for the position of the next valid element
+        
+        // Pointer for the position of the next valid element
+        int cnt = 0;
         // Iterate through the array
         for(int i=0; i<nums.length; i++){
             // If current element is not equal to 'val'
