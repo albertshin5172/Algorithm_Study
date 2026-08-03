@@ -15,6 +15,7 @@ class Solution {
                 cnt++; // Move pointer forward
             }
         }
+        
         // Return the count of valid elements (new length)
         return cnt;
     }
