@@ -15,7 +15,7 @@ class Solution {
                 zeroCount++;
             }
         }
-
+        
         // Second pass: Fill the remaining positions at the end with zeroes
         // Using 'zeroCount' to determine how many zeroes to fill
         for (int i = 0; i < zeroCount; i++) {
