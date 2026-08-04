@@ -1,9 +1,7 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        // Pointer for the next position to place a non-zero element
-        int idx = 0;
-        // Counter to keep track of the number of zeroes encountered
-        int zeroCount = 0;
+        int idx = 0; // Pointer for the next position to place a non-zero element
+        int zeroCount = 0; // Counter to keep track of the number of zeroes encountered
 
         // First pass: Move all non-zero elements to the front of the array
         for (int i = 0; i < nums.length; i++) {
@@ -15,7 +13,7 @@ class Solution {
                 zeroCount++;
             }
         }
-        
+
         // Second pass: Fill the remaining positions at the end with zeroes
         // Using 'zeroCount' to determine how many zeroes to fill
         for (int i = 0; i < zeroCount; i++) {
