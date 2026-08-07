@@ -12,7 +12,8 @@ class Solution {
         int right = n - 1;
 
         // Fill the result array from back to front (largest to smallest)
-        for (int i = n - 1; i >= 0; i--) {
+        /*        
+            for (int i = n - 1; i >= 0; i--) {
             // Compare the absolute values of the elements at the pointers.
             // The largest square will always come from either the far left (negative) 
             // or the far right (positive) of the sorted array.
@@ -24,7 +25,21 @@ class Solution {
                 right--; // Move the right pointer inward
             }
         }
-        
+        */
+        // Iterate forward from 0 to n-1(smallest to largest)
+        for (int i = 0; i < n; i++) {
+            // As suggested: Reverse the comparison logic
+            // Check if the right element has a larger or equal absolute value
+            if (Math.abs(nums[right]) >= Math.abs(nums[left])) {
+                // Place the larger square at the current furthest available position from the back
+                result[n - 1 - i] = nums[right] * nums[right];
+                right--; // Move the right pointer inward
+            } else {
+                // Otherwise, the left element has the larger square
+                result[n - 1 - i] = nums[left] * nums[left];
+                left++; // Move the left pointer inward
+            }
+        }
         return result;
     }
 }
