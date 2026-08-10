@@ -23,8 +23,7 @@ class Solution {
     // Check whether the substring is a palindrome.
     public boolean isPalindrome(String s, int left, int right) {
         while (left < right) {
-            // If any mismatch is found,
-            // the substring is not a palindrome.
+            // If any mismatch is found, the substring is not a palindrome.
             if (s.charAt(left) != s.charAt(right)) {
                 return false;
             }
